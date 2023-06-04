@@ -1,4 +1,4 @@
-# No Framework Blog
+# Handcrafted WebApp
 
 ## 実行手順
 1. ローカルにクローンする
